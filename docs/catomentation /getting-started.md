@@ -13,7 +13,11 @@ You're on your way to building an awesome developer hub! Here's some of the thin
 
 # 📝 Customize your docs
 
-/ht
+<HTMLBlock>{`
+{/* Google Tag Manager (noscript) */}<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>{/* End Google Tag Manager (noscript) */}
+`}</HTMLBlock>
+
+<br />
 
 Want to ease your users into it with some fancy marketing pages? You can enable a **[Landing Page](https://docs.readme.com/main/docs/landing-page)**, and write as much HTML as you want to make it look like your brand.
 
