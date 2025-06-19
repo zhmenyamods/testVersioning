@@ -55,3 +55,8 @@ From `2021-11`, onward we use the following grid of errors codes:<br /><br />
         </ul>
 </div>
 `}</HTMLBlock>
+
+<HTMLBlock>{`
+<h3 style="text-align: center;">Need Help? <a href="https://support.rechargepayments.com/hc/en-us/requests/new?ticket_form_id=360000121553"
+   onclick="getOutboundLink('https://support.rechargepayments.com/hc/en-us/requests/new?ticket_form_id=360000121553'); return false;">Contact Us</a></h3>
+`}</HTMLBlock>
