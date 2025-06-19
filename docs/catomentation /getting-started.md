@@ -14,7 +14,7 @@ You're on your way to building an awesome developer hub! Here's some of the thin
 # 📝 Customize your docs
 
 <HTMLBlock>{`
-<!-- Google Tag Manager --><noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>{/* End Google Tag Manager (noscript) */}
+<Accordion title="Accordion Title" icon="fa-info-circle"> \`\`\`javascript console.log('This is a code block inside an accordion');\`\`\`
 `}</HTMLBlock>
 
 <br />
