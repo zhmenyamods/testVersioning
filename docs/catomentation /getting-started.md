@@ -11,23 +11,29 @@ Welcome to ReadMe!
 
 You're on your way to building an awesome developer hub! Here's some of the things you'll want to check out.
 
-<Cards columns={4}>
-  <Card title="First Card" href="https://readme.com" icon="fa-home" target="_blank">
-    Neque porro quisquam est qui dolorem ipsum quia
-  </Card>
+\<style>
+&#x20; .my-card-style \{
+&#x20;   background-color: #f0f0f0;
+&#x20;   transition: background-color 0.3s ease;
+&#x20; }
 
-  <Card title="Second Card" icon="fa-user">
-    *Lorem ipsum dolor sit amet, consectetur adipiscing elit*
-  </Card>
+&#x20; .my-card-style:hover \{
+&#x20;   background-color: #e0e0e0;
+&#x20;   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+&#x20; }
+\</style>
 
-  <Card title="Third Card" icon="fa-star">
-    > Ut enim ad minim veniam, quis nostrud ullamco
-  </Card>
+\<Cards columns=\{4}>
+&#x20; \<Card title="First Card" className="my-card-style" href="https\://readme.com" icon="fa-home" target="\_blank">
+&#x20;   Neque porro quisquam est qui dolorem ipsum quia
+&#x20; \</Card>
 
-  <Card title="Fourth Card" icon="fa-question">
-    **Excepteur sint occaecat cupidatat non proident**
-  </Card>
-</Cards>
+&#x20; \<Card title="Second Card" className="my-card-style" icon="fa-user">
+&#x20;   \*Lorem ipsum dolor sit amet, consectetur adipiscing elit\*
+&#x20; \</Card>
+
+&#x20; \{/\* ... other cards \*/}
+\</Cards>
 
 # 📝 Customize your docs
 
