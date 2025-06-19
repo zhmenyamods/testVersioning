@@ -14,7 +14,7 @@ You're on your way to building an awesome developer hub! Here's some of the thin
 # 📝 Customize your docs
 
 <HTMLBlock>{`
-<Accordion title="Accordion Title" icon="fa-info-circle"> '''javascript console.log('This is a code block inside an accordion');
+<Accordion title="Accordion Title" icon="fa-info-circle"> \`\`\`javascript console.log('This is a code block inside an accordion');\`\`\` </Accordion>
 `}</HTMLBlock>
 
 <br />
