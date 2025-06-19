@@ -7,7 +7,7 @@ hidden: false
 ---
 Welcome to ReadMe!
 
-<br />
+`/coverage/v2/survevresources/boundaries.{fileFormat}`
 
 You're on your way to building an awesome developer hub! Here's some of the things you'll want to check out.
 
