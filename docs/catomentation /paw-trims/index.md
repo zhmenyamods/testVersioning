@@ -2,7 +2,7 @@
 title: 'Paw '
 excerpt: How to trim Loki's paws
 deprecated: false
-hidden: true
+hidden: false
 metadata:
   robots: index
 ---
