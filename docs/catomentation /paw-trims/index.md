@@ -6,14 +6,28 @@ hidden: false
 metadata:
   robots: index
 ---
-<Accordion title="My Accordion Title" icon="fa-info-circle">
-  ```json
-  {
-  "webhook_type": "Link",
-  "webhook_code": "ConnectionCreated",
-  "link_token": "link-sandbox-af1a0311-da53-4636-b754-dd15cc058176",
-  "public_token": "public-sandbox-b0e2c4ee-a763-4df5-bfe9-46a46bce993d",
-  "environment": "Sandbox"
-  }
-  ```
+<Accordion title="Application performance monitoring (APM)" icon="fa-info-circle">
+  <b>OpenTelemetry native</b>
+
+  <p>
+    Adopt open standard-based instrumentation and collection of telemetry data with OpenTelemetry. Automatically instrument your application code using OTel libraries or use OTel SDKs and APIs to instrument code.
+  </p>
+
+  <b>Service discovery and mapping</b>
+
+  <p>
+    Automatically discover all microservices and databases from OpenTelemetry data. Visualize your entire system architecture in one place. Give every developer access to Golden Signals monitoring without per-seat pricing that forces you to limit tool access to just a few experts.
+  </p>
+
+  <b>Trace and search inspection</b>
+
+  <p>
+    Analyze every slow transaction with 13 months of unsampled trace data. Pivot seamlessly from traces to logs, metrics, and infrastructure data. Drill down from service-level alerts to individual traces and correlated logs in seconds.
+  </p>
+
+  <b>Deployment tracking</b>
+
+  <p>
+    Instantly correlate deployment markers with performance changes to quickly identify whether new releases introduced regressions. Compare RED metrics across concurrent deployment versions. Automatically surface new error types introduced by deployments so your entire engineering team can identify issues without relying on expert troubleshooters.
+  </p>
 </Accordion>
