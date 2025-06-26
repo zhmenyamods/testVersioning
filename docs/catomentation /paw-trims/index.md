@@ -11,4 +11,6 @@ metadata:
 ---
 <Image align="left" className="border" border={true} src="https://files.readme.io/c9c197a2ed2181e213f82851159ea7eb1080319e29e5b47d0f7f777147928f29-Raise_a_request.png" />
 
+<br />
+
 Only certain request types allow you to indicate your priority and indicate that you are experiencing an outage or other critical incident.
