@@ -7,3 +7,10 @@ metadata:
   robots: index
 ---
 Hello, this is a test page
+
+<br />
+
+| 😊 | 😊 | 😊 |
+| :- | :- | :- |
+|    |    |    |
+|    |    |    |
