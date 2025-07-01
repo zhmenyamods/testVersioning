@@ -1,0 +1,5 @@
+- getbedtypescollection
+- createbedtype
+- patchbedtype
+- deletebedtype
+- getbedtype

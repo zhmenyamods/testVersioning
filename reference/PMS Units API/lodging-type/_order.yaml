@@ -1,0 +1,5 @@
+- getlodgingtypescollection
+- createlodgingtype
+- patchlodgingtype
+- deletelodgingtype
+- getlodgingtype
