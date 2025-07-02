@@ -1,0 +1,7 @@
+---
+title: subpage2
+deprecated: false
+hidden: false
+metadata:
+  robots: index
+---
