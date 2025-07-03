@@ -15,4 +15,4 @@ metadata:
 
 CuteID KYC 页面是私有的，访问该页面需要认证。请按照我们预先定义的规则，提供所有参数，并生成base64编码的RSA签名，随后将其作为查询字符串拼接到前端的 base URL 中。
 
-示例：`https://sandbox-web.cuteid.ai?app_uuid={app_uuid}&external_id={external_id}&rand={rand}&timestamp={timestamp}&sign={sign}`
+示例：[https://sandbox-web.cuteid.ai?app\_uuid=\{app\_uuid}\&external\_id=\{external\_id}\&rand=\{rand}\&timestamp=\{timestamp}\&sign=\{sign}](https://sandbox-web.cuteid.ai?app_uuid=\{app_uuid}\&external_id=\{external_id}\&rand=\{rand}\&timestamp=\{timestamp}\&sign=\{sign})
