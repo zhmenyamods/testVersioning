@@ -29,10 +29,7 @@ metadata:
 
         04 (Pick up card \[no fraud])
 
-        <br />
-
-        07 (Pick up card, special condition \[fraud account])12 (Invalid Transaction)
-        14 (Invalid account number \[no such number])
+        07 (Pick up card, special condition \[fraud account])12 (Invalid Transaction)14 (Invalid account number \[no such number])
         15 (No such issuer \[first 8 digits of account number do not relate to an issuing identifier])
         41 (Lost card, pick up)
         43 (Stolen card, pick up)
