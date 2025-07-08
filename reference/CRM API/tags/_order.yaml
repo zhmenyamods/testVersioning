@@ -1,6 +1,6 @@
 - gettagscollection
-- inquiry
 - createtag
 - gettag
 - updatetag
 - deletetag
+- inquiry
