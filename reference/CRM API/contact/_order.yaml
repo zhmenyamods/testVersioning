@@ -1,0 +1,15 @@
+- getcontacts
+- createcontact
+- getcontact
+- updatecontact
+- deletecontact
+- getcontactcompanies
+- addcompanytocontact-1
+- getcontactcompany
+- updatecontactcompany
+- deletecontactcompany
+- getpaymentmethods
+- createpaymentmethod
+- getpaymetmethod
+- deletepaymentmethod
+- contactmerge

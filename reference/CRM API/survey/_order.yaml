@@ -1,0 +1,17 @@
+- getsurveys
+- addsurvey
+- deletesurveys
+- getsurvey
+- updatesurvey
+- deletesurvey
+- getsurveyquestions
+- addsurveyquestion
+- deletesurveyquestions
+- getsurveyquestion
+- updatesurveyquestion
+- deletesurveyquestion
+- getsurveyresponses
+- getsurveyresponse
+- updatesurveyresponse
+- getsurveyresponsequestions
+- getsurveyresponsequestion

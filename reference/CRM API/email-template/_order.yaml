@@ -1,0 +1,7 @@
+- getemailtemplatecollection
+- createemailtemplate
+- getemailtemplate
+- updateemailtemplate
+- deleteemailtemplate
+- sendemailtemplate
+- mergeemailtemplate
