@@ -1,4 +1,0 @@
----
-title: Image
-hidden: false
----

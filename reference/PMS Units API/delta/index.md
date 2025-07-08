@@ -1,4 +1,0 @@
----
-title: Delta
-hidden: false
----
