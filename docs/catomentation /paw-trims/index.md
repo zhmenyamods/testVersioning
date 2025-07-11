@@ -9,26 +9,38 @@ metadata:
     https://files.readme.io/fde0a6270c2e8a3bd93e5bd0704bd23a7ad39ec1304cbb2ff0d9c601a0de6b4e-pngimg.com_-_cat_PNG50533.png
   robots: index
 ---
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniatestChange
+<span style={{ color: "red", fontSize: "24px", fontWeight: "bold" }}># Required Account Level: Standard Edition and Above</span>
 
-m, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt moltestChangelit anim id est laborum.
+# Real-Time Futures Trade Orders Push
 
-testChangetestChangetestChangetestChangetestChangetestChangetestChange
+## Channel: `futures_trades@``{exchange}`\_`{symbol}`@`{minVol}`
 
-testChangeLoremtestChange ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt intestChange ctestChangeulpa qui officia deserunt mollit anim id est laborum.
+To subscribe to the `futures_trades` channel, send the following message:
 
-testChange testChange testChange testChange testChange testChange testChange
+```json
+{
+    "method": "subscribe",
+    "channels": ["futures_trades@Binance_BTCUSDT@10000"]
+}
+```
 
-testChange
+### Response Example
 
-testChange
+Upon receiving data, the response will look like this:
 
-testChange
-
-testChange
-
-testChange
-
-testChange
-
-testChange
+```json
+{
+    "channel": "futures_trades@Binance_BTCUSDT@10000",
+    "data": [
+        {
+            "baseAsset": "BTC",
+            "exName": "Binance",
+            "price": 56738.00,
+            "side": 2,//side=1  sell.   side=2   buy   
+            "symbol": "BTCUSDT",
+            "time": 1725416318379,
+            "volUsd": 3858.18400
+        }
+    ]
+}
+```
