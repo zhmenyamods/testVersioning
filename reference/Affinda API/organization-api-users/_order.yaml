@@ -1,0 +1,6 @@
+- getallapiusers
+- createapiuser
+- getapiuser
+- updateapiuser
+- deleteapiuser
+- regenerateapikeyforapiuser

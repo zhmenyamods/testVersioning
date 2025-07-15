@@ -1,0 +1,7 @@
+- getallinvitations
+- createinvitation
+- getinvitation
+- updateinvitation
+- deleteinvitation
+- getinvitationbytoken
+- respondtoinvitation

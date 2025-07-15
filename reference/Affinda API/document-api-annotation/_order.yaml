@@ -1,0 +1,8 @@
+- getallannotations
+- createannotation
+- getannotation
+- updateannotation
+- deleteannotation
+- batchcreateannotations
+- batchupdateannotations
+- batchdeleteannotations

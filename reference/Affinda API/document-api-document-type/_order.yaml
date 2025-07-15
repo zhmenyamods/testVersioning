@@ -1,0 +1,7 @@
+- getdocumenttypes
+- createdocumenttype
+- getdocumenttype
+- updatedocumenttype
+- deletedocumenttype
+- jsonschemafromdocumenttype
+- pydanticmodelsfromdocumenttype

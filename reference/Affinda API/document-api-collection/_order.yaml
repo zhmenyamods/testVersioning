@@ -1,0 +1,9 @@
+- getallcollections
+- createcollection
+- getcollection
+- updatecollection
+- deletecollection
+- createdatafieldforcollection
+- getdatafieldforcollection
+- updatedatafieldforcollection
+- getusagebycollection

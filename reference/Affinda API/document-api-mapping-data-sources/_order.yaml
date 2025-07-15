@@ -1,0 +1,15 @@
+- createmappingdatasource
+- listmappingdatasources
+- getmappingdatasource
+- deletemappingdatasource
+- listmappingdatasourcevalues
+- replacemappingdatasourcevalues
+- addmappingdatasourcevalue
+- getmappingdatasourcevalue
+- updatemappingdatasourcevalue
+- deletemappingdatasourcevalue
+- createmapping
+- listmappings
+- getmapping
+- deletemapping
+- updatemapping

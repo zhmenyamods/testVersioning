@@ -1,0 +1,14 @@
+- getalldocuments
+- createdocument
+- getdocument
+- updatedocument
+- deletedocument
+- updatedocumentdata
+- getredacteddocument
+- getallvalidationresults
+- createvalidationresult
+- getvalidationresult
+- updatevalidationresult
+- deletevalidationresult
+- batchcreatevalidationresults
+- batchdeletevalidationresults

@@ -1,0 +1,11 @@
+- getalldatapoints
+- createdatapoint
+- getdatapoint
+- updatedatapoint
+- deletedatapoint
+- getdatapointchoices
+- createdatapointchoice
+- getdatapointchoice
+- updatedatapointchoice
+- deletedatapointchoice
+- replacedatapointchoices

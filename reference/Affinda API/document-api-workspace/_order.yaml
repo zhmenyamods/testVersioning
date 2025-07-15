@@ -1,0 +1,10 @@
+- getallworkspaces
+- createworkspace
+- getworkspace
+- updateworkspace
+- deleteworkspace
+- getusagebyworkspace
+- getallworkspacememberships
+- createworkspacemembership
+- getworkspacemembership
+- deleteworkspacemembership
