@@ -1,4 +1,0 @@
----
-title: /customers
-hidden: false
----

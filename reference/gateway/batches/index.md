@@ -1,4 +1,0 @@
----
-title: /batches
-hidden: false
----
