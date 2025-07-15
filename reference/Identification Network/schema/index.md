@@ -1,4 +1,0 @@
----
-title: schema
-hidden: false
----

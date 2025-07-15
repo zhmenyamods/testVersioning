@@ -1,4 +1,0 @@
----
-title: naics
-hidden: false
----

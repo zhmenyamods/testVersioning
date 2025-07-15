@@ -1,4 +1,0 @@
----
-title: licenses
-hidden: false
----
