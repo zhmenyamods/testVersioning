@@ -1,0 +1,6 @@
+- market_credentials_list
+- market_credentials_create
+- market_credentials_retrieve
+- market_credentials_partial_update
+- market_credentials_destroy
+- market_credentials_secret_retrieve

@@ -1,0 +1,4 @@
+- licenses_list
+- licenses_create
+- licenses_retrieve
+- licenses_update

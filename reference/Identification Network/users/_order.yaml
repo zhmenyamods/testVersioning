@@ -1,0 +1,4 @@
+- users_list
+- users_retrieve
+- users_partial_update
+- users_files_upload_create

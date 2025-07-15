@@ -1,0 +1,5 @@
+- geos_countries_list
+- geos_countries_retrieve
+- geos_subdivisions_list
+- geos_us_counties_list
+- geos_us_states_list
